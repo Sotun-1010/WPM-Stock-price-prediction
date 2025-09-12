@@ -23,7 +23,7 @@ Three models were applied: **ARIMA**, **ARIMAX**, and **VAR**. The **VAR model, 
 - [Numpy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org)
 - [Seaborn](https://seaborn.pydata.org)
-- [Statsmodel](https://www.statsmodels.org/stable/index.html)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 ## Contact
